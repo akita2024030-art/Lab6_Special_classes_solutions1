@@ -1,0 +1,1 @@
+# Lab6_Special_classes_solutions1
